@@ -2,6 +2,8 @@ Olá!
 
 Meu nome é Hugo Bascuñan, o desenvolvedor deste site desenvolvido utilizando React.js.
 
+- A pasta build é apenas a pasta gerado pelo comando "npm build" para poder publicar no servidor Netlify.
+
 - O arquivo gerador do HTML externo (pasta public) é o index.js
 
 - O arquivo App.js é o recebedor e distribuidor dos componentes destribuidos e separados dentro da pasta componentes dentro da pasta src.
