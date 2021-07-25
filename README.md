@@ -12,6 +12,6 @@ Meu nome é Hugo Bascuñan, o desenvolvedor deste site desenvolvido utilizando R
 
 - Ao digitar no input e enviar para o LocalStorage foram utilizados os métodos "useState" , "setItem", "localStorage." e o "onClick" para interagir com o usuário.
 
-- As informações foram salvas em uma única string para cada cadastro, unidos por contatenação devidamente separados para serem trabalhados pelo Backend.
+- As informações foram salvas em uma única string para cada cadastro, unidos por concatenação devidamente separados para serem trabalhados pelo Backend.
 
 - Demais dúvidas entrar em contato pelo Slack = "Hugo Bascuñan" e email = "hugo.bascunan@gmail.com"
